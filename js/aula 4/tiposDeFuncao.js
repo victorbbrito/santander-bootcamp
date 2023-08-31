@@ -1,6 +1,7 @@
 function funcao() {
-    let local("mensagem de uma função declarada");
+    console.log("mensagem de uma função declarada");
 }
+
 funcao();
 
 var funcao2 = function funcao2(){
